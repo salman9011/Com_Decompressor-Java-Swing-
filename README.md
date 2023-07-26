@@ -32,3 +32,6 @@ Remember to refer to the README file in the repository for any specific instruct
 
 Please note that the actual process and appearance may vary depending on the specific implementation of the compression and decompression application and the programming language used. The screenshots provided here are for illustrative purposes, and the filenames and commands are examples that should be adjusted based on your specific project.
 
+#Contact✔️🔴
+If you have any questions or need further information about the project, you can contact the project owner at - @initialsalmanparay7@gmail.com
+
