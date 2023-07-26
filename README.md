@@ -1,4 +1,4 @@
-# Com_Decompressor-Java-Swing-
+# Data Compression_Decompression-Java-Swing-
  This is the initial commit of Data compression and Decompression implemented using Java Swing's JFrame in Eclipse. The  aims is  to provide an user friendly interface and any one can use it on their Desktops.
  # Features
  Data Compression: Compress data files using the Gz (gzip) algorithm, reducing file sizes efficiently.
