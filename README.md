@@ -26,13 +26,14 @@ you can directly download exe file from here👇👇👇
 
 https://github.com/salman9011/Com_Decompressor-Java-Swing-/releases/tag/v1.0.0
 
-#Enjoy and use exe file to save more space in your Desktops.
+# Enjoy 
+ Use exe file to save more space in your Desktops.
 Have fun in using the application Save youur Space for Future use and make your files little more secure.
 
 Remember to refer to the README file in the repository for any specific instructions or additional details about the Application
 
 Please note that the actual process and appearance may vary depending on the specific implementation of the compression and decompression application and the programming language used. The screenshots provided here are for illustrative purposes, and the filenames and commands are examples that should be adjusted based on your specific project.
 
-#Contact✔️🔴
+# Contact✔️🔴
 If you have any questions or need further information about the project, you can contact the project owner at - @initialsalmanparay7@gmail.com
 
