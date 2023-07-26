@@ -23,6 +23,7 @@
 4.When you click on Select button for decompressing you can see another popup through which you can go to that particulat destination and select the compressed file and cdecompress it again.![Screenshot (211)](https://github.com/salman9011/Com_Decompressor-Java-Swing-/assets/70580281/54f632fb-48a3-46e5-8f33-acf3a18c512d)
 5. The Desktop application is also available you can see it in release seection.
 you can directly download exe file from here👇👇👇
+
 https://github.com/salman9011/Com_Decompressor-Java-Swing-/releases/tag/v1.0.0
 
 #Enjoy and use exe file to save more space in your Desktops.
